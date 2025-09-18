@@ -18,6 +18,13 @@ Your robust webinar platform. Rated in the top five of the world’s best softwa
 
 **Service status:** [https://status.myownconference.com/en/](https://status.myownconference.com/en/)
 
+**Helpdesk:**
+
+- English version ➟ [https://support.myownconference.com/en/](https://support.myownconference.com/en/)
+- Wersja polska ➟ [https://support.myownconference.com/pl/](https://support.myownconference.com/pl/)
+- Русская версия ➟ [https://support.myownconference.com/ru/](https://support.myownconference.com/ru/)
+- Українська версія ➟ [https://support.myownconference.com/uk/](https://support.myownconference.com/uk/)
+
 ---
 
 🤘 **Lucky webinars** 🤘
